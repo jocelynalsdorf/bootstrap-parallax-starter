@@ -4,7 +4,7 @@
   margin: 0 auto;
   width: 100%;
   position: relative;
-  padding-top: 40px 0;
+  padding-top: 50px 0;
 }
 
 #main-section {
@@ -13,7 +13,7 @@
   margin: 0 auto;
   width: 100%;
   position: relative;
-  padding: 100px 0;
+  padding: 70px 0;
 }
 
 #footer-area {
@@ -22,7 +22,7 @@
   margin: 0 auto;
   width: 100%;
   position: relative;
-  padding: 100px 0;
+  padding: 70px 0;
 }
 
 .introtext {
@@ -44,6 +44,7 @@ span.light {
 h1 {
   font-family: 'Lato', sans-serif;
   font-size: 80px;
+  padding-top:20px;
 
 }
 a.intro-links {
@@ -67,4 +68,18 @@ a.intro-links {
   font-family: 'Lato', sans-serif;
   font-size: 35px;
   margin-top: 0px;
+}
+.btn {
+  background-color: #fff;
+  color: purple;
+}
+.jumbotron {
+  background-color: transparent;
+  padding-top: 3px;
+}
+h2 {
+  padding-bottom:16px;
+}
+.col-md-4 {
+  background-color: rgba(120,120,120, 0.4);
 }
