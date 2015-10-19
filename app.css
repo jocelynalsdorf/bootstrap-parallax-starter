@@ -1,0 +1,35 @@
+#intro {
+  background: url('http://i.imgur.com/ydQ4Io8.jpg') 50% 0 fixed;
+  height: auto;
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+  padding-top: 40px 0;
+}
+
+#main-section {
+  background: url('http://i.imgur.com/c5YSjH2.jpg') 50% 0 fixed;
+  height: auto;
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+  padding: 100px 0;
+}
+
+#footer-area {
+  background: url('http://i.imgur.com/xK04OfK.jpg') 50% 0 fixed;
+  height: auto;
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+  padding: 100px 0;
+}
+
+.introtext {
+  height: 300px;
+  padding-top: 25px;
+  margin-top: 0;
+}
+nav.navbar.navbar-default {
+  border-radius:0;
+}
